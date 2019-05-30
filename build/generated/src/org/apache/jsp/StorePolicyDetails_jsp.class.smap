@@ -1,0 +1,27 @@
+SMAP
+StorePolicyDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 StorePolicyDetails.jsp
+StorePolicyDetails.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+1:51
+1#1,27:52
+28:79,3
+29,39:82
+2#0,161:121
+163,5:283
+167,2:288
+169:290,3
+170:293
+171:294,3
+172,20:297
+192,3:318
+194:321
+1#2,6:322
+*E

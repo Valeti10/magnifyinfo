@@ -1,0 +1,25 @@
+SMAP
+AddDollarValue_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddDollarValue.jsp
+AddDollarValue.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+1,2:52
+1#1,27:54
+28:81,3
+29,39:84
+3#0,62:123
+65,4:186
+68,2:190
+70:192,3
+71,8:195
+79,3:204
+81:207
+1#2,6:208
+*E

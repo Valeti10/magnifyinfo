@@ -1,0 +1,19 @@
+SMAP
+CustomizePolicySearch_jsp.java
+JSP
+*S JSP
+*F
++ 0 CustomizePolicySearch.jsp
+CustomizePolicySearch.jsp
++ 1 UserHeader.jsp
+UserHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+1:51,2
+1#1,26:53
+27:79,3
+28,39:82
+2#0,190:121
+1#2,6:310
+*E

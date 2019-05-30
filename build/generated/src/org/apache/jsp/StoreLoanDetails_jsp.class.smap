@@ -1,0 +1,25 @@
+SMAP
+StoreLoanDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 StoreLoanDetails.jsp
+StoreLoanDetails.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+1:51
+1#1,27:52
+28:79,3
+29,39:82
+2#0,120:121
+122,5:242
+126,9:247
+135,2:256,3
+137,12:262
+149,3:275
+151:278
+1#2,6:279
+*E
